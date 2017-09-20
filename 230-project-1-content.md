@@ -97,11 +97,12 @@ Game Play
   * Accelerometer & Touch Screen
 
 <h3>Teaching</h3>
-  The player is taught how to play by being thrown into the game and slowly having different mechanics of the game appear. 
-1. Movement is taught with adding simple obstacles with wide openings. This all should be obvious to the player since it’s natural to try and move players between obstacles.
-2. Coin Collection is taught with adding a coin and then showing a picture of the chain intersecting with the coin to collect it
-3. Pathing and Morphing will be introduced similarly to Coin collections where a picture will be shown directing the players
-
+  The player is taught how to play by being thrown into the game and slowly having different mechanics of the game appear.
+<ol>
+<li>Movement is taught with adding simple obstacles with wide openings. This all should be obvious to the player since it’s natural to try and move players between obstacles.</li>
+<li>Coin Collection is taught with adding a coin and then showing a picture of the chain intersecting with the coin to collect it</li>
+<li>Pathing and Morphing will be introduced similarly to Coin collections where a picture will be shown directing the players</li>
+</ol>
 <h3>Learning</h3>
 	After learning the basics of the game then the player should be fine. There really is no way to actually beat the game since it’s an endless runner. The best way to proceed far in the game is…
 * Quick thinking: The player should be able to make decisions on a fly. If they hesitate in their decisions or don’t choose quick enough they might end up losing the game.
